@@ -32,7 +32,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://newswire-api.onrender.com/",
+  
   "eslintConfig": {
     "extends": [
       "react-app",
